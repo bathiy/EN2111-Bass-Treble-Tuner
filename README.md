@@ -77,15 +77,6 @@ This project demonstrates the design, simulation, and implementation of a **Clas
 
 ---
 
-## 📷 Screenshots & Waveforms
-
-📁 Check the `/docs` or `/images` folder for:
-- Schematic diagrams
-- Tone controller simulation plots
-- Oscilloscope output screenshots
-
----
-
 ## 📅 Submission Info
 
 - **Module**: EN2111 – Electronic Circuit Design  
